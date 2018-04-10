@@ -1,6 +1,6 @@
-"""A setuptools based setup module for {{ cookiecutter.package_dist_name }}"""
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""A setuptools based setup module for {{ cookiecutter.package_dist_name }}"""
 
 from codecs import open
 from os import path
